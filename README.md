@@ -20,6 +20,7 @@ Pinneapple on pizza: | :ng_woman:
   * jenga
   * scrabble
   * monopoly
+* talking with my friends
   
 #### You can always count on me when you forget sanitizer or patch or sunscreen.
 
